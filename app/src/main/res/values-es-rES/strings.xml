@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SongList</string>
+    <string name="title">Título</string>
+    <string name="band">Banda</string>
+    <string name="year">Año</string>
+</resources>
